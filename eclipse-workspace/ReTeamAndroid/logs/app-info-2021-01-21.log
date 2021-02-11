@@ -1,0 +1,400 @@
+[INFO ] 2021-01-21 14:47:37.023 [main] SignIn - Email typed
+[INFO ] 2021-01-21 14:47:38.136 [main] SignIn - Password typed
+[INFO ] 2021-01-21 14:47:38.786 [main] SignIn - Sign In button clicked
+[INFO ] 2021-01-21 14:47:42.068 [main] SignIn - Text verified
+[INFO ] 2021-01-21 14:47:42.199 [main] WallOfFame - Team card tapped
+[INFO ] 2021-01-21 14:47:43.533 [main] WallOfFame - More icon (+) tapped
+[INFO ] 2021-01-21 14:47:44.554 [main] WallOfFame - Wall of Fame Button Tapped
+[INFO ] 2021-01-21 14:47:45.314 [main] WallOfFame - Third color tapped
+[INFO ] 2021-01-21 14:47:46.535 [main] WallOfFame - Text entered in the input field
+[INFO ] 2021-01-21 14:47:47.102 [main] WallOfFame - Add Media button tapped
+[INFO ] 2021-01-21 14:47:48.282 [main] WallOfFame - Go To Gallery option tapped
+[INFO ] 2021-01-21 14:49:37.352 [main] SignIn - Email typed
+[INFO ] 2021-01-21 14:49:38.028 [main] SignIn - Password typed
+[INFO ] 2021-01-21 14:49:38.647 [main] SignIn - Sign In button clicked
+[INFO ] 2021-01-21 14:49:42.012 [main] SignIn - Text verified
+[INFO ] 2021-01-21 14:49:42.231 [main] WallOfFame - Team card tapped
+[INFO ] 2021-01-21 14:49:43.536 [main] WallOfFame - More icon (+) tapped
+[INFO ] 2021-01-21 14:49:44.587 [main] WallOfFame - Wall of Fame Button Tapped
+[INFO ] 2021-01-21 14:49:45.331 [main] WallOfFame - Third color tapped
+[INFO ] 2021-01-21 14:49:46.582 [main] WallOfFame - Text entered in the input field
+[INFO ] 2021-01-21 14:49:47.196 [main] WallOfFame - Add Media button tapped
+[INFO ] 2021-01-21 14:49:48.317 [main] WallOfFame - Go To Gallery option tapped
+[INFO ] 2021-01-21 14:49:49.411 [main] WallOfFame - Media access allowed
+[INFO ] 2021-01-21 14:51:31.888 [main] SignIn - Email typed
+[INFO ] 2021-01-21 14:51:33.040 [main] SignIn - Password typed
+[INFO ] 2021-01-21 14:51:33.705 [main] SignIn - Sign In button clicked
+[INFO ] 2021-01-21 14:51:38.548 [main] SignIn - Text verified
+[INFO ] 2021-01-21 14:51:38.730 [main] WallOfFame - Team card tapped
+[INFO ] 2021-01-21 14:51:41.024 [main] WallOfFame - More icon (+) tapped
+[INFO ] 2021-01-21 14:51:42.093 [main] WallOfFame - Wall of Fame Button Tapped
+[INFO ] 2021-01-21 14:51:42.891 [main] WallOfFame - Third color tapped
+[INFO ] 2021-01-21 14:51:43.542 [main] WallOfFame - Text entered in the input field
+[INFO ] 2021-01-21 14:51:44.122 [main] WallOfFame - Add Media button tapped
+[INFO ] 2021-01-21 14:51:45.237 [main] WallOfFame - Go To Gallery option tapped
+[INFO ] 2021-01-21 14:51:46.334 [main] WallOfFame - Media access allowed
+[INFO ] 2021-01-21 14:51:47.218 [main] WallOfFame - Add Media button tapped
+[INFO ] 2021-01-21 14:51:48.262 [main] WallOfFame - Go To Gallery option tapped
+[INFO ] 2021-01-21 14:51:50.148 [main] WallOfFame - Media Selected
+[INFO ] 2021-01-21 14:51:51.115 [main] WallOfFame - Announcement button tapped
+[INFO ] 2021-01-21 14:55:26.175 [main] SignIn - Email typed
+[INFO ] 2021-01-21 14:55:26.849 [main] SignIn - Password typed
+[INFO ] 2021-01-21 14:55:27.442 [main] SignIn - Sign In button clicked
+[INFO ] 2021-01-21 14:58:54.062 [main] SignIn - Email typed
+[INFO ] 2021-01-21 14:58:55.576 [main] SignIn - Password typed
+[INFO ] 2021-01-21 14:58:56.223 [main] SignIn - Sign In button clicked
+[INFO ] 2021-01-21 15:00:57.829 [main] SignIn - Email typed
+[INFO ] 2021-01-21 15:00:58.978 [main] SignIn - Password typed
+[INFO ] 2021-01-21 15:00:59.633 [main] SignIn - Sign In button clicked
+[INFO ] 2021-01-21 15:01:05.116 [main] SignIn - Text verified
+[INFO ] 2021-01-21 15:01:12.769 [main] WallOfFame - Team card tapped
+[INFO ] 2021-01-21 15:01:14.121 [main] WallOfFame - More icon (+) tapped
+[INFO ] 2021-01-21 15:01:16.224 [main] WallOfFame - Wall of Fame Button Tapped
+[INFO ] 2021-01-21 15:01:16.366 [main] WallOfFame - Third color tapped
+[INFO ] 2021-01-21 15:01:17.635 [main] WallOfFame - Text entered in the input field
+[INFO ] 2021-01-21 15:01:18.192 [main] WallOfFame - Add Media button tapped
+[INFO ] 2021-01-21 15:01:19.298 [main] WallOfFame - Go To Gallery option tapped
+[INFO ] 2021-01-21 15:01:20.806 [main] WallOfFame - Media access allowed
+[INFO ] 2021-01-21 15:01:21.620 [main] WallOfFame - Add Media button tapped
+[INFO ] 2021-01-21 15:01:22.669 [main] WallOfFame - Go To Gallery option tapped
+[INFO ] 2021-01-21 15:01:24.538 [main] WallOfFame - Media Selected
+[INFO ] 2021-01-21 15:01:25.503 [main] WallOfFame - Announcement button tapped
+[INFO ] 2021-01-21 16:13:56.161 [main] SignIn - Email typed
+[INFO ] 2021-01-21 16:13:57.721 [main] SignIn - Password typed
+[INFO ] 2021-01-21 16:13:58.328 [main] SignIn - Sign In button clicked
+[INFO ] 2021-01-21 16:15:22.116 [main] SignIn - Email typed
+[INFO ] 2021-01-21 16:15:24.150 [main] SignIn - Password typed
+[INFO ] 2021-01-21 16:15:24.748 [main] SignIn - Sign In button clicked
+[INFO ] 2021-01-21 16:17:14.192 [main] SignIn - Email typed
+[INFO ] 2021-01-21 16:17:15.751 [main] SignIn - Password typed
+[INFO ] 2021-01-21 16:17:16.350 [main] SignIn - Sign In button clicked
+[INFO ] 2021-01-21 16:17:20.237 [main] SignIn - Text verified
+[INFO ] 2021-01-21 16:17:20.368 [main] WallOfFame - Team card tapped
+[INFO ] 2021-01-21 16:17:22.600 [main] WallOfFame - More icon (+) tapped
+[INFO ] 2021-01-21 16:17:23.585 [main] WallOfFame - Wall of Fame Button Tapped
+[INFO ] 2021-01-21 16:17:24.619 [main] WallOfFame - Third color tapped
+[INFO ] 2021-01-21 16:17:25.851 [main] WallOfFame - Text entered in the input field
+[INFO ] 2021-01-21 16:17:26.427 [main] WallOfFame - Add Media button tapped
+[INFO ] 2021-01-21 16:17:27.246 [main] WallOfFame - Go To Gallery option tapped
+[INFO ] 2021-01-21 16:19:58.398 [main] SignIn - Email typed
+[INFO ] 2021-01-21 16:19:59.280 [main] SignIn - Password typed
+[INFO ] 2021-01-21 16:20:00.293 [main] SignIn - Sign In button clicked
+[INFO ] 2021-01-21 16:20:04.258 [main] SignIn - Text verified
+[INFO ] 2021-01-21 16:20:04.440 [main] WallOfFame - Team card tapped
+[INFO ] 2021-01-21 16:20:06.591 [main] WallOfFame - More icon (+) tapped
+[INFO ] 2021-01-21 16:20:07.589 [main] WallOfFame - Wall of Fame Button Tapped
+[INFO ] 2021-01-21 16:20:08.623 [main] WallOfFame - Third color tapped
+[INFO ] 2021-01-21 16:20:10.205 [main] WallOfFame - Text entered in the input field
+[INFO ] 2021-01-21 16:20:11.281 [main] WallOfFame - Add Media button tapped
+[INFO ] 2021-01-21 16:20:12.291 [main] WallOfFame - Go To Gallery option tapped
+[INFO ] 2021-01-21 16:20:13.072 [main] WallOfFame - Media access allowed
+[INFO ] 2021-01-21 16:20:14.272 [main] WallOfFame - Add Media button tapped
+[INFO ] 2021-01-21 16:20:15.276 [main] WallOfFame - Go To Gallery option tapped
+[INFO ] 2021-01-21 16:22:21.240 [main] SignIn - Email typed
+[INFO ] 2021-01-21 16:22:23.217 [main] SignIn - Password typed
+[INFO ] 2021-01-21 16:22:24.315 [main] SignIn - Sign In button clicked
+[INFO ] 2021-01-21 16:22:27.275 [main] SignIn - Text verified
+[INFO ] 2021-01-21 16:22:27.446 [main] WallOfFame - Team card tapped
+[INFO ] 2021-01-21 16:22:29.677 [main] WallOfFame - More icon (+) tapped
+[INFO ] 2021-01-21 16:22:30.677 [main] WallOfFame - Wall of Fame Button Tapped
+[INFO ] 2021-01-21 16:22:31.712 [main] WallOfFame - Third color tapped
+[INFO ] 2021-01-21 16:22:33.224 [main] WallOfFame - Text entered in the input field
+[INFO ] 2021-01-21 16:22:34.288 [main] WallOfFame - Add Media button tapped
+[INFO ] 2021-01-21 16:22:34.882 [main] WallOfFame - Go To Gallery option tapped
+[INFO ] 2021-01-21 16:22:36.294 [main] WallOfFame - Media access allowed
+[INFO ] 2021-01-21 16:22:37.279 [main] WallOfFame - Add Media button tapped
+[INFO ] 2021-01-21 16:22:37.999 [main] WallOfFame - Go To Gallery option tapped
+[INFO ] 2021-01-21 16:22:39.459 [main] WallOfFame - Media Selected
+[INFO ] 2021-01-21 16:22:40.592 [main] WallOfFame - Announcement button tapped
+[INFO ] 2021-01-21 16:22:45.427 [main] WallOfFame - Close icon tapped
+[INFO ] 2021-01-21 16:22:47.611 [main] WallOfFame - Back icon tapped
+[INFO ] 2021-01-21 16:22:49.294 [main] SignOut - Drawer icon tapped
+[INFO ] 2021-01-21 16:22:50.311 [main] SignOut - SignOut button tapped
+[INFO ] 2021-01-21 16:22:51.277 [main] SignOut - Yes option on Alert tapped
+[INFO ] 2021-01-21 17:47:57.155 [main] SignIn - Email typed
+[INFO ] 2021-01-21 17:47:58.049 [main] SignIn - Password typed
+[INFO ] 2021-01-21 17:47:59.037 [main] SignIn - Sign In button clicked
+[INFO ] 2021-01-21 17:48:02.022 [main] SignIn - Text verified
+[INFO ] 2021-01-21 17:48:02.154 [main] WallOfFame - Team card tapped
+[INFO ] 2021-01-21 17:48:04.340 [main] WallOfFame - More icon (+) tapped
+[INFO ] 2021-01-21 17:48:06.218 [main] WallOfFame - Wall of Fame Button Tapped
+[INFO ] 2021-01-21 17:48:07.257 [main] WallOfFame - Third color tapped
+[INFO ] 2021-01-21 17:48:08.957 [main] WallOfFame - Text entered in the input field
+[INFO ] 2021-01-21 17:48:10.048 [main] WallOfFame - Add Media button tapped
+[INFO ] 2021-01-21 17:48:11.004 [main] WallOfFame - Go To Gallery option tapped
+[INFO ] 2021-01-21 17:48:12.036 [main] WallOfFame - Media access allowed
+[INFO ] 2021-01-21 17:48:13.017 [main] WallOfFame - Add Media button tapped
+[INFO ] 2021-01-21 17:48:14.026 [main] WallOfFame - Go To Gallery option tapped
+[INFO ] 2021-01-21 17:48:16.266 [main] WallOfFame - Media Selected
+[INFO ] 2021-01-21 17:48:17.418 [main] WallOfFame - Tag Member option tapped
+[INFO ] 2021-01-21 17:48:20.121 [main] WallOfFame - Member 1 tapped
+[INFO ] 2021-01-21 17:48:20.269 [main] WallOfFame - Member 2 tapped
+[INFO ] 2021-01-21 17:48:21.258 [main] WallOfFame - Done button for List Tapped
+[INFO ] 2021-01-21 17:48:21.984 [main] WallOfFame - Announcement button tapped
+[INFO ] 2021-01-21 17:48:26.052 [main] WallOfFame - Close icon tapped
+[INFO ] 2021-01-21 17:48:28.351 [main] WallOfFame - Back icon tapped
+[INFO ] 2021-01-21 17:48:30.020 [main] SignOut - Drawer icon tapped
+[INFO ] 2021-01-21 17:48:31.036 [main] SignOut - SignOut button tapped
+[INFO ] 2021-01-21 17:48:32.018 [main] SignOut - Yes option on Alert tapped
+[INFO ] 2021-01-21 18:55:42.851 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 18:55:43.474 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 18:55:44.091 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 18:57:08.084 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 18:57:08.791 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 18:57:09.419 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 18:57:12.966 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 18:57:13.125 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 18:57:15.623 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 18:57:16.704 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 18:57:17.534 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 18:57:18.820 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 18:57:19.410 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 18:57:20.544 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 19:08:00.131 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 19:08:00.843 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 19:08:01.498 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 19:08:04.682 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 19:08:04.874 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 19:08:07.397 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 19:08:08.454 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 19:08:09.341 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 19:08:10.015 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 19:08:10.632 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 19:08:11.776 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 19:19:31.247 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 19:19:32.303 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 19:19:33.273 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 19:20:26.397 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 19:20:27.780 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 19:20:28.374 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 19:20:31.223 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 19:20:31.361 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 19:20:34.276 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 19:20:35.523 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 19:20:36.574 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 19:20:38.182 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 19:20:39.256 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 19:20:39.876 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 19:38:10.537 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 19:38:11.137 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 19:38:11.742 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 19:38:14.500 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 19:38:14.628 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 19:38:16.840 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 19:38:18.375 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 19:38:19.410 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 19:38:21.340 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 19:38:22.393 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 19:38:23.119 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 19:45:31.420 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 19:45:33.004 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 19:45:33.609 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 19:45:36.465 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 19:45:36.591 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 19:45:37.823 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 19:45:38.775 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 19:45:39.807 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 19:45:41.442 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 19:45:41.989 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 19:45:42.612 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 20:02:33.816 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 20:02:35.195 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 20:02:35.790 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 20:02:38.470 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 20:02:38.593 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 20:02:41.376 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 20:02:42.643 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 20:02:43.675 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 20:02:45.611 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 20:02:46.676 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 20:02:47.677 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 20:05:42.693 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 20:05:44.224 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 20:05:44.817 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 20:05:47.592 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 20:05:47.715 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 20:05:50.399 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 20:05:51.716 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 20:05:52.748 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 20:05:53.927 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 20:05:54.697 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 20:05:55.701 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 20:07:25.704 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 20:07:26.796 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 20:07:27.735 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 20:07:30.722 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 20:07:30.869 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 20:07:33.736 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 20:07:35.052 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 20:07:36.086 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 20:07:37.716 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 20:07:38.218 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 20:07:38.838 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 20:10:29.106 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 20:10:29.752 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 20:10:30.356 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 20:10:33.079 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 20:10:33.706 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 20:10:36.065 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 20:10:38.843 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 20:10:39.890 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 20:10:41.414 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 20:10:41.991 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 20:10:42.733 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 20:12:37.697 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 20:12:39.670 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 20:12:40.763 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 20:12:43.726 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 20:12:43.847 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 20:12:47.780 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 20:12:48.997 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 20:12:50.047 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 20:12:51.675 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 20:12:52.745 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 20:12:53.732 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 20:16:12.751 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 20:16:14.282 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 20:16:14.886 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 20:16:17.591 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 20:16:17.720 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 20:16:20.487 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 20:16:21.836 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 20:16:22.869 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 20:16:24.049 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 20:16:24.769 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 20:16:25.773 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 20:19:00.744 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 20:19:01.840 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 20:19:02.806 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 20:19:06.046 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 20:19:06.190 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 20:19:08.908 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 20:19:10.310 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 20:19:11.761 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 20:19:13.386 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 20:19:13.956 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 20:19:14.794 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 20:20:28.792 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 20:20:29.830 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 20:20:30.828 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 20:20:33.843 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 20:20:33.962 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 20:20:36.877 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 20:20:37.896 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 20:20:38.926 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 20:20:40.740 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 20:20:41.809 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 20:20:42.797 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 20:23:18.781 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 20:23:19.862 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 20:23:20.466 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 20:23:23.125 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 20:23:23.251 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 20:23:25.917 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 20:23:26.934 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 20:23:27.965 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 20:23:29.836 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 20:23:30.400 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 20:23:31.020 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 20:26:11.811 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 20:26:12.881 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 20:26:13.489 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 20:26:16.376 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 20:26:16.523 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 20:26:19.473 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 20:26:21.024 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 20:26:22.055 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 20:26:23.221 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 20:26:23.855 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 20:26:24.838 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 20:27:26.819 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 20:27:27.913 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 20:27:28.892 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 20:27:41.946 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 20:27:44.041 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 20:27:45.043 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 20:27:46.091 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 20:27:47.269 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 20:27:47.874 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 20:27:48.860 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 20:30:20.424 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 20:30:21.823 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 20:30:22.913 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 20:30:25.876 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 20:30:26.015 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 20:30:28.131 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 20:30:29.865 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 20:30:30.897 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 20:30:32.826 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 20:30:33.898 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 20:30:34.883 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 20:30:43.896 [main] WallOfFame - Tag Member option tapped on the announcement screen
+[INFO ] 2021-01-21 20:30:48.848 [main] WallOfFame - Position 1 tapped on the member selection listing
+[INFO ] 2021-01-21 20:30:48.979 [main] WallOfFame - Position 2 tapped on the member selection listing
+[INFO ] 2021-01-21 20:30:49.947 [main] WallOfFame - Done button tapped on the Member selection List
+[INFO ] 2021-01-21 20:32:36.367 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 20:32:36.946 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 20:32:37.917 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 20:32:41.884 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 20:32:42.919 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 20:32:44.888 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 20:32:46.135 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 20:32:47.184 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 20:32:48.844 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 20:32:49.417 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 20:32:50.038 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 20:32:51.267 [main] WallOfFame - Image is selected from the gallery for announcement attachement
+[INFO ] 2021-01-21 20:32:52.435 [main] WallOfFame - Tag Member option tapped on the announcement screen
+[INFO ] 2021-01-21 20:32:56.270 [main] WallOfFame - Position 1 tapped on the member selection listing
+[INFO ] 2021-01-21 20:32:56.404 [main] WallOfFame - Position 2 tapped on the member selection listing
+[INFO ] 2021-01-21 20:32:57.867 [main] WallOfFame - Done button tapped on the Member selection List
+[INFO ] 2021-01-21 20:32:58.568 [main] WallOfFame - Post Announcement in Team button tapped on the Announcement screen
+[INFO ] 2021-01-21 20:33:48.870 [main] WallOfFame - Close icon tapped on the success pop-up for announcement posted
+[INFO ] 2021-01-21 20:33:50.003 [main] WallOfFame - Back icon tapped tap on the Team Feed
+[INFO ] 2021-01-21 20:33:50.987 [main] SignOut - Drawer icon tapped on the Home Screen
+[INFO ] 2021-01-21 20:33:52.038 [main] SignOut - SignOut button tapped from the side drawer
+[INFO ] 2021-01-21 20:33:52.935 [main] SignOut - Yes option tapped on the confirmation alert for sign out
+[INFO ] 2021-01-21 20:35:20.034 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 20:35:21.130 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 20:35:21.940 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 20:35:27.116 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 20:35:29.175 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 20:35:30.890 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 20:35:32.140 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 20:35:33.191 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 20:35:34.862 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 20:35:35.606 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 20:35:36.227 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 20:37:01.892 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 20:37:02.487 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 20:37:03.076 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 20:37:06.017 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 20:37:06.195 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 20:37:08.277 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 20:37:09.910 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 20:37:10.945 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 20:37:12.125 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 20:37:12.943 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 20:37:13.930 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 20:40:17.946 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 20:40:19.482 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 20:40:20.084 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 20:40:23.906 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 20:40:24.071 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 20:40:26.250 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 20:40:28.232 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 20:40:28.334 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 20:40:29.895 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 20:40:30.916 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 20:40:31.953 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-21 20:42:01.011 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-21 20:42:02.120 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-21 20:42:02.988 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-21 20:42:05.957 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-21 20:42:06.139 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-21 20:42:09.154 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-21 20:42:10.155 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-21 20:42:11.187 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-21 20:42:12.390 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-21 20:42:12.974 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-21 20:42:13.974 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet

@@ -1,0 +1,31 @@
+[INFO ] 2021-01-20 19:20:54.336 [main] Log4j - This is a information message
+[ERROR] 2021-01-20 19:20:54.340 [main] Log4j - This is an error message
+[WARN ] 2021-01-20 19:20:54.340 [main] Log4j - This is a warning message
+[FATAL] 2021-01-20 19:20:54.340 [main] Log4j - This is a fatal message 
+[INFO ] 2021-01-20 19:23:23.738 [main] Log4j - This is a information message
+[ERROR] 2021-01-20 19:23:23.744 [main] Log4j - This is an error message
+[WARN ] 2021-01-20 19:23:23.744 [main] Log4j - This is a warning message
+[FATAL] 2021-01-20 19:23:23.744 [main] Log4j - This is a fatal message 
+[TRACE] 2021-01-20 19:23:23.745 [main] Log4j - This is a trace message
+[INFO ] 2021-01-20 19:24:11.715 [main] Log4j - This is a information message
+[ERROR] 2021-01-20 19:24:11.723 [main] Log4j - This is an error message
+[WARN ] 2021-01-20 19:24:11.723 [main] Log4j - This is a warning message
+[FATAL] 2021-01-20 19:24:11.724 [main] Log4j - This is a fatal message 
+[TRACE] 2021-01-20 19:24:11.724 [main] Log4j - This is a trace message
+[INFO ] 2021-01-20 19:37:48.159 [main] SignIn - Email Type
+[INFO ] 2021-01-20 19:37:49.208 [main] SignIn - Password Typed
+[INFO ] 2021-01-20 19:45:39.239 [main] SignIn - Email typed
+[INFO ] 2021-01-20 19:45:40.302 [main] SignIn - Password typed
+[INFO ] 2021-01-20 19:45:40.909 [main] SignIn - Sign In button clicked
+[INFO ] 2021-01-20 19:45:44.585 [main] SignIn - Text verified
+[INFO ] 2021-01-20 19:45:46.766 [main] WallOfFame - Team card tapped
+[INFO ] 2021-01-20 19:45:46.940 [main] WallOfFame - More icon (+) tapped
+[INFO ] 2021-01-20 19:45:48.491 [main] WallOfFame - Wall of Fame Button Tapped
+[INFO ] 2021-01-20 19:45:49.609 [main] WallOfFame - Third color tapped
+[INFO ] 2021-01-20 19:45:51.214 [main] WallOfFame - Text entered in the input field
+[INFO ] 2021-01-20 19:45:52.678 [main] WallOfFame - Announcement button tapped
+[INFO ] 2021-01-20 19:45:54.292 [main] WallOfFame - Close icon tapped
+[INFO ] 2021-01-20 19:45:57.245 [main] WallOfFame - Back icon tapped
+[INFO ] 2021-01-20 19:45:58.774 [main] SignOut - Drawer icon tapped
+[INFO ] 2021-01-20 19:46:00.291 [main] SignOut - SignOut button tapped
+[INFO ] 2021-01-20 19:46:01.272 [main] SignOut - Yes option on Alert tapped

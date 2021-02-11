@@ -1,0 +1,433 @@
+[INFO ] 2021-01-22 16:12:51.310 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-22 16:12:52.337 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-22 16:12:53.323 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-22 16:12:57.732 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-22 16:12:58.356 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-22 16:13:00.506 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 16:13:02.041 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-22 16:13:03.290 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 16:13:04.908 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-22 16:13:05.491 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-22 16:13:06.306 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 16:13:08.054 [main] WallOfFame - Image is selected from the gallery for announcement attachement
+[INFO ] 2021-01-22 16:13:09.321 [main] WallOfFame - Tag Member option tapped on the announcement screen
+[INFO ] 2021-01-22 16:13:12.231 [main] WallOfFame - Position 1 tapped on the member selection listing
+[INFO ] 2021-01-22 16:13:12.389 [main] WallOfFame - Position 2 tapped on the member selection listing
+[INFO ] 2021-01-22 16:13:13.373 [main] WallOfFame - Done button tapped on the Member selection List
+[INFO ] 2021-01-22 16:13:14.072 [main] WallOfFame - Post Announcement in Team button tapped on the Announcement screen
+[INFO ] 2021-01-22 16:13:35.590 [main] WallOfFame - Close icon tapped on the success pop-up for announcement posted
+[INFO ] 2021-01-22 16:13:38.327 [main] SignOut - Back icon tapped tap on the Team Feed
+[INFO ] 2021-01-22 16:13:39.356 [main] SignOut - Drawer icon tapped on the Home Screen
+[INFO ] 2021-01-22 16:13:40.374 [main] SignOut - SignOut button tapped from the side drawer
+[INFO ] 2021-01-22 16:13:41.323 [main] SignOut - Yes option tapped on the confirmation alert for sign out
+[INFO ] 2021-01-22 16:55:14.835 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-22 16:55:15.807 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-22 16:55:16.410 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-22 16:55:19.327 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-22 16:55:19.479 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-22 16:55:22.213 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 16:55:23.866 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-22 16:55:24.914 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 16:55:26.108 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-22 16:55:26.695 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-22 16:55:27.711 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 16:55:29.962 [main] WallOfFame - Image is selected from the gallery for announcement attachement
+[INFO ] 2021-01-22 16:55:31.158 [main] WallOfFame - Tag Member option tapped on the announcement screen
+[INFO ] 2021-01-22 16:55:34.645 [main] WallOfFame - Position 1 tapped on the member selection listing
+[INFO ] 2021-01-22 16:55:34.795 [main] WallOfFame - Position 2 tapped on the member selection listing
+[INFO ] 2021-01-22 16:55:35.779 [main] WallOfFame - Done button tapped on the Member selection List
+[INFO ] 2021-01-22 16:55:36.662 [main] WallOfFame - Post Announcement in Team button tapped on the Announcement screen
+[INFO ] 2021-01-22 16:55:41.695 [main] WallOfFame - Close icon tapped on the success pop-up for announcement posted
+[INFO ] 2021-01-22 16:55:43.810 [main] BrightIdeas - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 16:55:45.709 [main] BrightIdeas - Bright Ideas Button Tapped in the selected team
+[INFO ] 2021-01-22 16:56:48.968 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-22 16:56:49.725 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-22 16:56:50.713 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-22 16:56:53.754 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-22 16:56:53.882 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-22 16:56:56.731 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 16:56:57.731 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-22 16:56:58.764 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 16:57:00.712 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-22 16:57:01.280 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-22 16:57:01.901 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 16:57:03.114 [main] WallOfFame - Image is selected from the gallery for announcement attachement
+[INFO ] 2021-01-22 16:57:04.279 [main] WallOfFame - Tag Member option tapped on the announcement screen
+[INFO ] 2021-01-22 16:57:07.029 [main] WallOfFame - Position 1 tapped on the member selection listing
+[INFO ] 2021-01-22 16:57:07.162 [main] WallOfFame - Position 2 tapped on the member selection listing
+[INFO ] 2021-01-22 16:57:08.793 [main] WallOfFame - Done button tapped on the Member selection List
+[INFO ] 2021-01-22 16:57:08.895 [main] WallOfFame - Post Announcement in Team button tapped on the Announcement screen
+[INFO ] 2021-01-22 16:57:12.965 [main] WallOfFame - Close icon tapped on the success pop-up for announcement posted
+[INFO ] 2021-01-22 16:57:15.731 [main] BrightIdeas - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 16:57:17.810 [main] BrightIdeas - Bright Ideas Button Tapped in the selected team
+[INFO ] 2021-01-22 16:57:17.914 [main] BrightIdeas - sixth Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 16:57:19.287 [main] BrightIdeas - Text entered in the input field for Bright Ideas
+[INFO ] 2021-01-22 16:57:19.862 [main] BrightIdeas - Add Media button tapped on the Idea screen
+[INFO ] 2021-01-22 16:57:20.700 [main] BrightIdeas - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 16:57:21.879 [main] BrightIdeas - Image is selected from the gallery for Idea attachement
+[INFO ] 2021-01-22 16:57:22.997 [main] BrightIdeas - Post Idea in Team button tapped on the Idea screen
+[INFO ] 2021-01-22 16:57:28.063 [main] BrightIdeas - Close icon tapped on the success pop-up for Idea posted
+[INFO ] 2021-01-22 16:57:30.696 [main] SignOut - Back icon tapped tap on the Team Feed
+[INFO ] 2021-01-22 16:57:32.016 [main] SignOut - Drawer icon tapped on the Home Screen
+[INFO ] 2021-01-22 16:57:33.031 [main] SignOut - SignOut button tapped from the side drawer
+[INFO ] 2021-01-22 16:57:33.764 [main] SignOut - Yes option tapped on the confirmation alert for sign out
+[INFO ] 2021-01-22 17:20:43.855 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-22 17:20:44.454 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-22 17:20:45.063 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-22 17:20:47.729 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-22 17:20:47.844 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-22 17:20:50.843 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 17:20:51.126 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-22 17:20:52.144 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 17:20:53.690 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-22 17:20:54.262 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-22 17:20:54.881 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 17:20:56.994 [main] WallOfFame - Image is selected from the gallery for announcement attachement
+[INFO ] 2021-01-22 17:20:58.126 [main] WallOfFame - Tag Member option tapped on the announcement screen
+[INFO ] 2021-01-22 17:21:01.044 [main] WallOfFame - Position 1 tapped on the member selection listing
+[INFO ] 2021-01-22 17:21:02.093 [main] WallOfFame - Position 2 tapped on the member selection listing
+[INFO ] 2021-01-22 17:21:02.845 [main] WallOfFame - Done button tapped on the Member selection List
+[INFO ] 2021-01-22 17:21:02.943 [main] WallOfFame - Post Announcement in Team button tapped on the Announcement screen
+[INFO ] 2021-01-22 17:21:06.594 [main] WallOfFame - Close icon tapped on the success pop-up for announcement posted
+[INFO ] 2021-01-22 17:21:09.060 [main] BrightIdeas - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 17:21:10.843 [main] BrightIdeas - Bright Ideas Button Tapped in the selected team
+[INFO ] 2021-01-22 17:21:11.728 [main] BrightIdeas - sixth Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 17:21:12.897 [main] BrightIdeas - Text entered in the input field for Bright Ideas
+[INFO ] 2021-01-22 17:21:13.760 [main] BrightIdeas - Add Media button tapped on the Idea screen
+[INFO ] 2021-01-22 17:21:14.747 [main] BrightIdeas - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 17:21:15.928 [main] BrightIdeas - Image is selected from the gallery for Idea attachement
+[INFO ] 2021-01-22 17:21:17.062 [main] BrightIdeas - Post Idea in Team button tapped on the Idea screen
+[INFO ] 2021-01-22 17:21:21.876 [main] BrightIdeas - Close icon tapped on the success pop-up for Idea posted
+[INFO ] 2021-01-22 17:21:23.946 [main] SignOut - Back icon tapped tap on the Team Feed
+[INFO ] 2021-01-22 17:21:25.761 [main] SignOut - Drawer icon tapped on the Home Screen
+[INFO ] 2021-01-22 17:21:26.779 [main] SignOut - SignOut button tapped from the side drawer
+[INFO ] 2021-01-22 17:21:27.761 [main] SignOut - Yes option tapped on the confirmation alert for sign out
+[INFO ] 2021-01-22 17:25:17.904 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-22 17:25:18.798 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-22 17:25:19.386 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-22 17:25:22.134 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-22 17:25:22.256 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-22 17:25:24.869 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 17:25:25.907 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-22 17:25:26.955 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 17:25:28.436 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-22 17:25:29.024 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-22 17:25:29.773 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 17:25:30.987 [main] WallOfFame - Image is selected from the gallery for announcement attachement
+[INFO ] 2021-01-22 17:25:32.153 [main] WallOfFame - Tag Member option tapped on the announcement screen
+[INFO ] 2021-01-22 17:25:35.692 [main] WallOfFame - Position 1 tapped on the member selection listing
+[INFO ] 2021-01-22 17:26:07.738 [main] SignOut - Back icon tapped tap on the Team Feed
+[INFO ] 2021-01-22 17:29:17.904 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-22 17:29:18.807 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-22 17:29:19.794 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-22 17:29:22.776 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-22 17:29:22.913 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-22 17:29:25.829 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 17:29:27.179 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-22 17:29:28.715 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 17:29:29.426 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-22 17:29:30.011 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-22 17:29:30.781 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 17:29:32.027 [main] WallOfFame - Image is selected from the gallery for announcement attachement
+[INFO ] 2021-01-22 17:29:33.194 [main] WallOfFame - Tag Member option tapped on the announcement screen
+[INFO ] 2021-01-22 17:29:36.727 [main] WallOfFame - Position 1 tapped on the member selection listing
+[INFO ] 2021-01-22 17:29:36.880 [main] WallOfFame - Position 2 tapped on the member selection listing
+[INFO ] 2021-01-22 17:29:37.861 [main] WallOfFame - Done button tapped on the Member selection List
+[INFO ] 2021-01-22 17:29:38.562 [main] WallOfFame - Post Announcement in Team button tapped on the Announcement screen
+[INFO ] 2021-01-22 17:29:43.811 [main] WallOfFame - Close icon tapped on the success pop-up for announcement posted
+[INFO ] 2021-01-22 17:29:45.178 [main] BrightIdeas - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 17:29:46.878 [main] BrightIdeas - Bright Ideas Button Tapped in the selected team
+[INFO ] 2021-01-22 17:29:57.211 [main] SignOut - Back icon tapped tap on the Team Feed
+[INFO ] 2021-01-22 17:32:51.929 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-22 17:32:53.311 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-22 17:32:53.919 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-22 17:32:56.803 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-22 17:32:56.937 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-22 17:32:59.136 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 17:33:00.172 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-22 17:33:01.721 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 17:33:02.440 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-22 17:33:03.003 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-22 17:33:03.771 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 17:33:05.002 [main] WallOfFame - Image is selected from the gallery for announcement attachement
+[INFO ] 2021-01-22 17:33:06.155 [main] WallOfFame - Tag Member option tapped on the announcement screen
+[INFO ] 2021-01-22 17:33:12.068 [main] WallOfFame - Position 1 tapped on the member selection listing
+[INFO ] 2021-01-22 17:33:13.118 [main] WallOfFame - Position 2 tapped on the member selection listing
+[INFO ] 2021-01-22 17:33:13.880 [main] WallOfFame - Done button tapped on the Member selection List
+[INFO ] 2021-01-22 17:33:13.985 [main] WallOfFame - Post Announcement in Team button tapped on the Announcement screen
+[INFO ] 2021-01-22 17:33:18.168 [main] WallOfFame - Close icon tapped on the success pop-up for announcement posted
+[INFO ] 2021-01-22 17:33:20.234 [main] BrightIdeas - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 17:33:21.874 [main] BrightIdeas - Bright Ideas Button Tapped in the selected team
+[INFO ] 2021-01-22 17:33:22.754 [main] BrightIdeas - sixth Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 17:33:24.423 [main] BrightIdeas - Text entered in the input field for Bright Ideas
+[INFO ] 2021-01-22 17:33:25.003 [main] BrightIdeas - Add Media button tapped on the Idea screen
+[INFO ] 2021-01-22 17:33:25.788 [main] BrightIdeas - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 17:33:26.987 [main] BrightIdeas - Image is selected from the gallery for Idea attachement
+[INFO ] 2021-01-22 17:33:28.152 [main] BrightIdeas - Post Idea in Team button tapped on the Idea screen
+[INFO ] 2021-01-22 17:33:32.802 [main] BrightIdeas - Close icon tapped on the success pop-up for Idea posted
+[INFO ] 2021-01-22 17:33:34.802 [main] SignOut - Back icon tapped tap on the Team Feed
+[INFO ] 2021-01-22 17:33:36.153 [main] SignOut - Drawer icon tapped on the Home Screen
+[INFO ] 2021-01-22 17:33:37.185 [main] SignOut - SignOut button tapped from the side drawer
+[INFO ] 2021-01-22 17:33:37.937 [main] SignOut - Yes option tapped on the confirmation alert for sign out
+[INFO ] 2021-01-22 18:23:24.078 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-22 18:23:24.867 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-22 18:23:25.839 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-22 18:23:29.189 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-22 18:23:30.775 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-22 18:23:32.943 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 18:23:34.188 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-22 18:23:35.205 [main] WallOfFame - Third Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 18:23:36.747 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-22 18:23:37.803 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-22 18:23:38.886 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 18:23:41.153 [main] WallOfFame - Image is selected from the gallery for announcement attachement
+[INFO ] 2021-01-22 18:23:42.770 [main] WallOfFame - Tag Member option tapped on the announcement screen
+[INFO ] 2021-01-22 18:23:47.754 [main] WallOfFame - Position 1 tapped on the member selection listing
+[INFO ] 2021-01-22 18:23:47.905 [main] WallOfFame - Position 2 tapped on the member selection listing
+[INFO ] 2021-01-22 18:23:48.890 [main] WallOfFame - Done button tapped on the Member selection List
+[INFO ] 2021-01-22 18:23:50.005 [main] WallOfFame - Post Announcement in Team button tapped on the Announcement screen
+[INFO ] 2021-01-22 18:23:54.803 [main] WallOfFame - Close icon tapped on the success pop-up for announcement posted
+[INFO ] 2021-01-22 18:23:57.776 [main] BrightIdeas - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 18:23:58.888 [main] BrightIdeas - Bright Ideas Button Tapped in the selected team
+[INFO ] 2021-01-22 18:24:00.054 [main] BrightIdeas - sixth Backgroud color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 18:24:01.755 [main] BrightIdeas - Text entered in the input field for Bright Ideas
+[INFO ] 2021-01-22 18:24:02.821 [main] BrightIdeas - Add Media button tapped on the Idea screen
+[INFO ] 2021-01-22 18:24:03.806 [main] BrightIdeas - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 18:24:05.005 [main] BrightIdeas - Image is selected from the gallery for Idea attachement
+[INFO ] 2021-01-22 18:24:06.154 [main] BrightIdeas - Post Idea in Team button tapped on the Idea screen
+[INFO ] 2021-01-22 18:24:11.086 [main] BrightIdeas - Close icon tapped on the success pop-up for Idea posted
+[INFO ] 2021-01-22 18:24:13.289 [main] Slideshow - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 18:24:15.074 [main] Slideshow - Slideshow option from more menu is tapped
+[INFO ] 2021-01-22 18:24:16.123 [main] Slideshow - Capture button tapped on the slideshow screen
+[INFO ] 2021-01-22 18:24:17.756 [main] Slideshow - Topic type in the Set Topic field on the slideshow screen
+[INFO ] 2021-01-22 18:24:18.824 [main] Slideshow - Share button tapped on the slideshow screen
+[INFO ] 2021-01-22 18:24:29.006 [main] SignOut - Back icon tapped tap on the Team Feed
+[INFO ] 2021-01-22 18:24:30.847 [main] SignOut - Drawer icon tapped on the Home Screen
+[INFO ] 2021-01-22 18:24:31.852 [main] SignOut - SignOut button tapped from the side drawer
+[INFO ] 2021-01-22 18:24:32.805 [main] SignOut - Yes option tapped on the confirmation alert for sign out
+[INFO ] 2021-01-22 19:20:56.747 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-22 19:20:57.829 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-22 19:20:58.550 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-22 19:21:01.629 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-22 19:21:01.771 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-22 19:21:04.834 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 19:21:05.867 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-22 19:21:06.901 [main] WallOfFame - Third Background color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 19:21:08.484 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-22 19:21:09.069 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-22 19:21:09.687 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 19:21:11.884 [main] WallOfFame - Image is selected from the gallery for announcement attachement
+[INFO ] 2021-01-22 19:21:13.551 [main] WallOfFame - Tag Member option tapped on the announcement screen
+[INFO ] 2021-01-22 19:21:16.502 [main] WallOfFame - Position 1 tapped on the member selection listing
+[INFO ] 2021-01-22 19:21:16.651 [main] WallOfFame - Position 2 tapped on the member selection listing
+[INFO ] 2021-01-22 19:21:17.636 [main] WallOfFame - Done button tapped on the Member selection List
+[INFO ] 2021-01-22 19:21:18.520 [main] WallOfFame - Post Announcement in Team button tapped on the Announcement screen
+[INFO ] 2021-01-22 19:21:22.567 [main] WallOfFame - Close icon tapped on the success pop-up for announcement posted
+[INFO ] 2021-01-22 19:21:24.869 [main] BrightIdeas - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 19:21:26.633 [main] BrightIdeas - Bright Ideas Button Tapped in the selected team
+[INFO ] 2021-01-22 19:21:27.502 [main] BrightIdeas - sixth Background color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 19:21:29.477 [main] BrightIdeas - Text entered in the input field for Bright Ideas
+[INFO ] 2021-01-22 19:21:30.553 [main] BrightIdeas - Add Media button tapped on the Idea screen
+[INFO ] 2021-01-22 19:21:31.272 [main] BrightIdeas - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 19:21:32.685 [main] BrightIdeas - Image is selected from the gallery for Idea attachement
+[INFO ] 2021-01-22 19:21:33.836 [main] BrightIdeas - Post Idea in Team button tapped on the Idea screen
+[INFO ] 2021-01-22 19:21:38.703 [main] BrightIdeas - Close icon tapped on the success pop-up for Idea posted
+[INFO ] 2021-01-22 19:21:40.786 [main] Slideshow - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 19:21:42.635 [main] Slideshow - Slideshow option from more menu is tapped
+[INFO ] 2021-01-22 19:21:43.584 [main] Slideshow - Capture button tapped on the slideshow screen
+[INFO ] 2021-01-22 19:21:45.481 [main] Slideshow - Topic type in the Set Topic field on the slideshow screen
+[INFO ] 2021-01-22 19:21:46.552 [main] Slideshow - Share button tapped on the slideshow screen
+[INFO ] 2021-01-22 19:21:50.568 [main] SignOut - Back icon tapped tap on the Team Feed
+[INFO ] 2021-01-22 19:21:52.501 [main] SignOut - Drawer icon tapped on the Home Screen
+[INFO ] 2021-01-22 19:21:53.536 [main] SignOut - SignOut button tapped from the side drawer
+[INFO ] 2021-01-22 19:21:54.552 [main] SignOut - Yes option tapped on the confirmation alert for sign out
+[INFO ] 2021-01-22 19:25:39.621 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-22 19:25:41.517 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-22 19:25:42.129 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-22 19:25:45.575 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-22 19:25:45.712 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-22 19:25:47.961 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 19:25:48.962 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-22 19:25:49.993 [main] WallOfFame - Third Background color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 19:25:51.187 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-22 19:25:51.760 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-22 19:25:52.580 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 19:25:53.776 [main] WallOfFame - Image is selected from the gallery for announcement attachement
+[INFO ] 2021-01-22 19:25:54.943 [main] WallOfFame - Tag Member option tapped on the announcement screen
+[INFO ] 2021-01-22 19:25:57.991 [main] WallOfFame - Position 1 tapped on the member selection listing
+[INFO ] 2021-01-22 19:25:58.626 [main] WallOfFame - Position 2 tapped on the member selection listing
+[INFO ] 2021-01-22 19:26:00.060 [main] WallOfFame - Done button tapped on the Member selection List
+[INFO ] 2021-01-22 19:26:00.759 [main] WallOfFame - Post Announcement in Team button tapped on the Announcement screen
+[INFO ] 2021-01-22 19:26:05.575 [main] WallOfFame - Close icon tapped on the success pop-up for announcement posted
+[INFO ] 2021-01-22 19:26:07.894 [main] BrightIdeas - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 19:26:09.261 [main] BrightIdeas - Bright Ideas Button Tapped in the selected team
+[INFO ] 2021-01-22 19:26:09.960 [main] BrightIdeas - sixth Background color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 19:26:11.523 [main] BrightIdeas - Text entered in the input field for Bright Ideas
+[INFO ] 2021-01-22 19:26:12.595 [main] BrightIdeas - Add Media button tapped on the Idea screen
+[INFO ] 2021-01-22 19:26:13.315 [main] BrightIdeas - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 19:26:14.727 [main] BrightIdeas - Image is selected from the gallery for Idea attachement
+[INFO ] 2021-01-22 19:26:15.861 [main] BrightIdeas - Post Idea in Team button tapped on the Idea screen
+[INFO ] 2021-01-22 19:26:19.943 [main] BrightIdeas - Close icon tapped on the success pop-up for Idea posted
+[INFO ] 2021-01-22 19:26:22.479 [main] Slideshow - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 19:26:23.894 [main] Slideshow - Slideshow option from more menu is tapped
+[INFO ] 2021-01-22 19:26:24.628 [main] Slideshow - Capture button tapped on the slideshow screen
+[INFO ] 2021-01-22 19:26:26.523 [main] Slideshow - Topic type in the Set Topic field on the slideshow screen
+[INFO ] 2021-01-22 19:26:27.577 [main] Slideshow - Share button tapped on the slideshow screen
+[INFO ] 2021-01-22 19:26:31.378 [main] TeamVideo - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 19:26:41.546 [main] TeamVideo - Team Video option is tapped from the more menu
+[INFO ] 2021-01-22 19:26:42.760 [main] TeamVideo - Team Video Record button is tapped on the Video Recording Screen
+[INFO ] 2021-01-22 19:26:42.769 [main] TeamVideo - Waiting for recording for about 5 seconds
+[INFO ] 2021-01-22 19:26:44.567 [main] TeamVideo - Stop button tapped on the Video Screen to stop Recording
+[INFO ] 2021-01-22 19:26:45.247 [main] TeamVideo - Topic is typed on the Team Video Screen
+[INFO ] 2021-01-22 19:26:45.813 [main] TeamVideo - Share button is tapped on the Video Screen to post the video in the Feed
+[INFO ] 2021-01-22 19:32:01.645 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-22 19:32:02.250 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-22 19:32:02.856 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-22 19:32:05.630 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-22 19:32:05.757 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-22 19:32:08.007 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 19:32:09.023 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-22 19:32:10.057 [main] WallOfFame - Third Background color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 19:32:11.253 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-22 19:32:11.840 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-22 19:32:12.644 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 19:32:13.854 [main] WallOfFame - Image is selected from the gallery for announcement attachement
+[INFO ] 2021-01-22 19:32:15.004 [main] WallOfFame - Tag Member option tapped on the announcement screen
+[INFO ] 2021-01-22 19:32:17.588 [main] WallOfFame - Position 1 tapped on the member selection listing
+[INFO ] 2021-01-22 19:32:17.739 [main] WallOfFame - Position 2 tapped on the member selection listing
+[INFO ] 2021-01-22 19:32:18.742 [main] WallOfFame - Done button tapped on the Member selection List
+[INFO ] 2021-01-22 19:32:19.666 [main] WallOfFame - Post Announcement in Team button tapped on the Announcement screen
+[INFO ] 2021-01-22 19:32:24.006 [main] WallOfFame - Close icon tapped on the success pop-up for announcement posted
+[INFO ] 2021-01-22 19:32:26.757 [main] BrightIdeas - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 19:32:27.857 [main] BrightIdeas - Bright Ideas Button Tapped in the selected team
+[INFO ] 2021-01-22 19:32:28.609 [main] BrightIdeas - sixth Background color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 19:32:30.318 [main] BrightIdeas - Text entered in the input field for Bright Ideas
+[INFO ] 2021-01-22 19:32:30.890 [main] BrightIdeas - Add Media button tapped on the Idea screen
+[INFO ] 2021-01-22 19:32:31.679 [main] BrightIdeas - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 19:32:32.805 [main] BrightIdeas - Image is selected from the gallery for Idea attachement
+[INFO ] 2021-01-22 19:32:33.972 [main] BrightIdeas - Post Idea in Team button tapped on the Idea screen
+[INFO ] 2021-01-22 19:32:38.838 [main] BrightIdeas - Close icon tapped on the success pop-up for Idea posted
+[INFO ] 2021-01-22 19:32:40.940 [main] Slideshow - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 19:32:42.371 [main] Slideshow - Slideshow option from more menu is tapped
+[INFO ] 2021-01-22 19:32:43.639 [main] Slideshow - Capture button tapped on the slideshow screen
+[INFO ] 2021-01-22 19:32:44.624 [main] Slideshow - Topic type in the Set Topic field on the slideshow screen
+[INFO ] 2021-01-22 19:32:45.639 [main] Slideshow - Share button tapped on the slideshow screen
+[INFO ] 2021-01-22 19:32:48.972 [main] TeamVideo - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 19:32:50.724 [main] TeamVideo - Team Video option is tapped from the more menu
+[INFO ] 2021-01-22 19:32:51.923 [main] TeamVideo - Team Video Record button is tapped on the Video Recording Screen
+[INFO ] 2021-01-22 19:32:51.933 [main] TeamVideo - Waiting for recording for about 5 seconds
+[INFO ] 2021-01-22 19:32:53.705 [main] TeamVideo - Stop button tapped on the Video Screen to stop Recording
+[INFO ] 2021-01-22 19:32:53.799 [main] TeamVideo - Topic is typed on the Team Video Screen
+[INFO ] 2021-01-22 19:32:54.542 [main] TeamVideo - Share button is tapped on the Video Screen to post the video in the Feed
+[INFO ] 2021-01-22 19:36:40.812 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-22 19:36:42.616 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-22 19:36:43.215 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-22 19:36:46.299 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-22 19:36:46.433 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-22 19:36:48.733 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 19:36:49.782 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-22 19:36:50.814 [main] WallOfFame - Third Background color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 19:36:52.350 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-22 19:36:52.930 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-22 19:36:53.685 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 19:36:54.881 [main] WallOfFame - Image is selected from the gallery for announcement attachement
+[INFO ] 2021-01-22 19:36:56.048 [main] WallOfFame - Tag Member option tapped on the announcement screen
+[INFO ] 2021-01-22 19:36:58.949 [main] WallOfFame - Position 1 tapped on the member selection listing
+[INFO ] 2021-01-22 19:36:59.099 [main] WallOfFame - Position 2 tapped on the member selection listing
+[INFO ] 2021-01-22 19:37:00.083 [main] WallOfFame - Done button tapped on the Member selection List
+[INFO ] 2021-01-22 19:37:00.783 [main] WallOfFame - Post Announcement in Team button tapped on the Announcement screen
+[INFO ] 2021-01-22 19:37:06.964 [main] WallOfFame - Close icon tapped on the success pop-up for announcement posted
+[INFO ] 2021-01-22 19:37:09.714 [main] BrightIdeas - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 19:37:10.701 [main] BrightIdeas - Bright Ideas Button Tapped in the selected team
+[INFO ] 2021-01-22 19:37:11.651 [main] BrightIdeas - sixth Background color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 19:37:13.620 [main] BrightIdeas - Text entered in the input field for Bright Ideas
+[INFO ] 2021-01-22 19:37:14.680 [main] BrightIdeas - Add Media button tapped on the Idea screen
+[INFO ] 2021-01-22 19:37:15.685 [main] BrightIdeas - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 19:37:16.848 [main] BrightIdeas - Image is selected from the gallery for Idea attachement
+[INFO ] 2021-01-22 19:37:18.014 [main] BrightIdeas - Post Idea in Team button tapped on the Idea screen
+[INFO ] 2021-01-22 19:37:23.250 [main] BrightIdeas - Close icon tapped on the success pop-up for Idea posted
+[INFO ] 2021-01-22 19:37:25.699 [main] Slideshow - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 19:37:26.798 [main] Slideshow - Slideshow option from more menu is tapped
+[INFO ] 2021-01-22 19:37:27.651 [main] Slideshow - Capture button tapped on the slideshow screen
+[INFO ] 2021-01-22 19:37:29.268 [main] Slideshow - Topic type in the Set Topic field on the slideshow screen
+[INFO ] 2021-01-22 19:37:29.834 [main] Slideshow - Share button tapped on the slideshow screen
+[INFO ] 2021-01-22 19:37:33.782 [main] TeamVideo - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 19:37:34.880 [main] TeamVideo - Team Video option is tapped from the more menu
+[INFO ] 2021-01-22 19:37:36.101 [main] TeamVideo - Team Video Record button is tapped on the Video Recording Screen
+[INFO ] 2021-01-22 19:37:36.111 [main] TeamVideo - Waiting for recording for about 5 seconds
+[INFO ] 2021-01-22 19:37:37.890 [main] TeamVideo - Stop button tapped on the Video Screen to stop Recording
+[INFO ] 2021-01-22 19:37:37.992 [main] TeamVideo - Topic is typed on the Team Video Screen
+[INFO ] 2021-01-22 19:37:38.718 [main] TeamVideo - Share button is tapped on the Video Screen to post the video in the Feed
+[INFO ] 2021-01-22 19:37:43.682 [main] TeamVideo - Close icon tapped on the success pop-up for Video posted
+[INFO ] 2021-01-22 19:37:44.865 [main] SignOut - Back icon tapped tap on the Team Feed
+[INFO ] 2021-01-22 19:37:46.682 [main] SignOut - Drawer icon tapped on the Home Screen
+[INFO ] 2021-01-22 19:37:47.700 [main] SignOut - SignOut button tapped from the side drawer
+[INFO ] 2021-01-22 19:37:48.449 [main] SignOut - Yes option tapped on the confirmation alert for sign out
+[INFO ] 2021-01-22 21:21:23.515 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-22 21:21:25.019 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-22 21:21:25.616 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-22 21:21:29.096 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-22 21:21:29.250 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-22 21:21:32.265 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 21:21:33.299 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-22 21:21:34.330 [main] WallOfFame - Third Background color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 21:21:35.979 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-22 21:21:37.048 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-22 21:21:37.677 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 21:21:39.380 [main] WallOfFame - Image is selected from the gallery for announcement attachement
+[INFO ] 2021-01-22 21:21:40.515 [main] WallOfFame - Tag Member option tapped on the announcement screen
+[INFO ] 2021-01-22 21:21:44.381 [main] WallOfFame - Position 1 tapped on the member selection listing
+[INFO ] 2021-01-22 21:21:45.016 [main] WallOfFame - Position 2 tapped on the member selection listing
+[INFO ] 2021-01-22 21:21:46.049 [main] WallOfFame - Done button tapped on the Member selection List
+[INFO ] 2021-01-22 21:21:46.750 [main] WallOfFame - Post Announcement in Team button tapped on the Announcement screen
+[INFO ] 2021-01-22 21:21:52.049 [main] WallOfFame - Close icon tapped on the success pop-up for announcement posted
+[INFO ] 2021-01-22 21:21:54.765 [main] BrightIdeas - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 21:21:56.715 [main] BrightIdeas - Bright Ideas Button Tapped in the selected team
+[INFO ] 2021-01-22 21:21:57.416 [main] BrightIdeas - sixth Background color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 21:21:58.979 [main] BrightIdeas - Text entered in the input field for Bright Ideas
+[INFO ] 2021-01-22 21:22:00.000 [main] BrightIdeas - Add Media button tapped on the Idea screen
+[INFO ] 2021-01-22 21:22:01.036 [main] BrightIdeas - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 21:22:02.232 [main] BrightIdeas - Image is selected from the gallery for Idea attachement
+[INFO ] 2021-01-22 21:22:03.466 [main] BrightIdeas - Post Idea in Team button tapped on the Idea screen
+[INFO ] 2021-01-22 21:22:08.733 [main] BrightIdeas - Close icon tapped on the success pop-up for Idea posted
+[INFO ] 2021-01-22 21:22:11.316 [main] Slideshow - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 21:22:12.414 [main] Slideshow - Slideshow option from more menu is tapped
+[INFO ] 2021-01-22 21:22:13.232 [main] Slideshow - Capture button tapped on the slideshow screen
+[INFO ] 2021-01-22 21:22:15.214 [main] Slideshow - Topic type in the Set Topic field on the slideshow screen
+[INFO ] 2021-01-22 21:22:15.786 [main] Slideshow - Share button tapped on the slideshow screen
+[INFO ] 2021-01-22 21:22:20.983 [main] TeamVideo - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 21:22:22.100 [main] TeamVideo - Team Video option is tapped from the more menu
+[INFO ] 2021-01-22 21:22:23.383 [main] TeamVideo - Team Video Record button is tapped on the Video Recording Screen
+[INFO ] 2021-01-22 21:22:23.397 [main] TeamVideo - Waiting for recording for about 5 seconds
+[INFO ] 2021-01-22 21:22:25.194 [main] TeamVideo - Stop button tapped on the Video Screen to stop Recording
+[INFO ] 2021-01-22 21:22:25.878 [main] TeamVideo - Topic is typed on the Team Video Screen
+[INFO ] 2021-01-22 21:22:26.450 [main] TeamVideo - Share button is tapped on the Video Screen to post the video in the Feed
+[INFO ] 2021-01-22 21:22:32.232 [main] TeamVideo - Close icon tapped on the success pop-up for Video posted
+[INFO ] 2021-01-22 21:22:35.977 [main] SignOut - Typed text in the Textual Post Field
+[INFO ] 2021-01-22 21:22:36.599 [main] SignOut - Tapped the send button to post the status
+[INFO ] 2021-01-22 21:22:38.050 [main] SignOut - Back icon tapped tap on the Team Feed
+[INFO ] 2021-01-22 21:22:40.332 [main] SignOut - Drawer icon tapped on the Home Screen
+[INFO ] 2021-01-22 21:27:37.221 [main] SignIn - Email type in the email field on the sign-in screen
+[INFO ] 2021-01-22 21:27:38.292 [main] SignIn - Password typed in the password field on the sign-in screen
+[INFO ] 2021-01-22 21:27:39.109 [main] SignIn - Sign In button tapped on the sign-in screen
+[INFO ] 2021-01-22 21:27:42.108 [main] SignIn - Text verified for the login confirmation
+[INFO ] 2021-01-22 21:27:43.312 [main] WallOfFame - First team card tapped on the team listing
+[INFO ] 2021-01-22 21:27:46.209 [main] WallOfFame - More icon (+) tapped on the selected Team feed
+[INFO ] 2021-01-22 21:27:47.260 [main] WallOfFame - Wall of Fame Button Tapped in the selected team
+[INFO ] 2021-01-22 21:27:48.309 [main] WallOfFame - Third Background color tapped on the share an Announcement screen
+[INFO ] 2021-01-22 21:27:49.523 [main] WallOfFame - Text entered in the input field for Wall of Fame
+[INFO ] 2021-01-22 21:27:50.122 [main] WallOfFame - Add Media button tapped on the announcement screen
+[INFO ] 2021-01-22 21:27:51.080 [main] WallOfFame - Go To Gallery option tapped on the bottom sheet
+[INFO ] 2021-01-22 21:27:52.258 [main] WallOfFame - Image is selected from the gallery for announcement attachement
+[INFO ] 2021-01-22 21:27:53.391 [main] WallOfFame - Tag Member option tapped on the announcement screen
+[INFO ] 2021-01-22 21:27:57.013 [main] WallOfFame - Position 1 tapped on the member selection listing
+[INFO ] 2021-01-22 21:27:57.159 [main] WallOfFame - Position 2 tapped on the member selection listing
+[INFO ] 2021-01-22 21:27:58.128 [main] WallOfFame - Done button tapped on the Member selection List
+[INFO ] 2021-01-22 21:27:58.844 [main] WallOfFame - Post Announcement in Team button tapped on the Announcement screen
+[INFO ] 2021-01-22 21:28:09.309 [main] WallOfFame - Close icon tapped on the success pop-up for announcement posted
+[INFO ] 2021-01-22 21:28:13.026 [main] SignOut - Typed text in the Textual Post Field
+[INFO ] 2021-01-22 21:28:14.126 [main] SignOut - Tapped the send button to post the status
+[INFO ] 2021-01-22 21:28:15.426 [main] SignOut - Back icon tapped tap on the Team Feed
+[INFO ] 2021-01-22 21:28:16.493 [main] SignOut - Drawer icon tapped on the Home Screen
+[INFO ] 2021-01-22 21:28:17.726 [main] SignOut - SignOut button tapped from the side drawer
+[INFO ] 2021-01-22 21:28:18.460 [main] SignOut - Yes option tapped on the confirmation alert for sign out

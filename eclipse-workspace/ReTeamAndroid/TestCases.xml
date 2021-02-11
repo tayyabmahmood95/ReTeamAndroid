@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="false">
+
+
+
+	<test name="TestCases">
+
+		<parameter name="emailField" 		value="staging1@mailinator.com"></parameter>
+		<parameter name="passwordField" 	value="samsung@123"></parameter>
+		<parameter name="wallInputField"	value="This is an Announcement Test Post"></parameter>
+		<parameter name="ideaInputField" 	value="This is an Idea Test Post"></parameter>
+		<parameter name="slideshowTopic"	value="Slideshow Test"></parameter>
+		<parameter name="videoTopic"		value="Video Test"></parameter>	
+		<parameter name="textPostInput"		value="This is a Textual Test Post"></parameter>	
+		<parameter name="topicValue"		value="This is a Topic Test Post"></parameter>	
+		<classes>
+			<class name="tests.TestCases" />
+
+
+			<methods>
+				<include name="TestSignIn" />
+				<include name="TestWallOfFame" />
+				<include name="TestBrightIdea" />
+				<include name="TestSlideshow" />
+				<include name="TestTeamVideo" />
+				<include name="TestTextualPost" />
+				<include name="TestTopicOfTheDay" />
+				<include name="TestSignOut" />
+			</methods>
+
+
+
+		</classes>
+	</test> 
+</suite> 
