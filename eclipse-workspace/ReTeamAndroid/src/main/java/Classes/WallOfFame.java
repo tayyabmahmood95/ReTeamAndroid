@@ -84,8 +84,7 @@ public class WallOfFame
 		logger.info("Tag Member option tapped on the announcement screen");
 		driver.findElement(chkSelectingMember1).click();
 		logger.info("Position 1 tapped on the member selection listing"); 
-		//asdkhsakdhsakdh
-		     //asbdgahsgdkjashd
+	
 		driver.findElement(chkSelectingMember2).click();
 		logger.info("Position 2 tapped on the member selection listing");
 		driver.findElement(btnDoneForList).click();
